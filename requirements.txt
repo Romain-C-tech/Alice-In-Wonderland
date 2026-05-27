@@ -1,0 +1,9 @@
+scikit-learn
+nltk
+scipy
+wordcloud
+pandas
+numpy
+requests
+spacy
+streamlit
